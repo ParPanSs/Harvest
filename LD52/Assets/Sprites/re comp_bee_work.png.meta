@@ -1,0 +1,674 @@
+fileFormatVersion: 2
+guid: fc4f4abb2cc071848be8a3c90225a4ad
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: re comp_bee_work_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 1382
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1a8d37def2dee4f8e2942342c23a99
+      internalID: -627817437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re comp_bee_work_1
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 4320
+        width: 1382
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11a2eb6a76dfae40a4f364a29c1cd93
+      internalID: -1021075511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re comp_bee_work_2
+      rect:
+        serializedVersion: 2
+        x: 2764
+        y: 4320
+        width: 1382
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6852915715338a0489030e36e88d47bc
+      internalID: 1219003009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re comp_bee_work_3
+      rect:
+        serializedVersion: 2
+        x: 4146
+        y: 4320
+        width: 1382
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3655f9680b5a28c41a68e324ad4ce813
+      internalID: -1973717960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re comp_bee_work_4
+      rect:
+        serializedVersion: 2
+        x: 5528
+        y: 4320
+        width: 1382
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189583624d6179b48bde8a830c95121f
+      internalID: -1884479143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re comp_bee_work_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3240
+        width: 1382
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a11fccf2bf7854baa6307a753919bd
+      internalID: 530362027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re comp_bee_work_6
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 3240
+        width: 1382
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba99f5677efb274aad681c99eaa3172
+      internalID: 902564011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re comp_bee_work_7
+      rect:
+        serializedVersion: 2
+        x: 2764
+        y: 3240
+        width: 1382
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6d432f05313014f8592680a6c3cc66
+      internalID: -2134679046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re comp_bee_work_8
+      rect:
+        serializedVersion: 2
+        x: 4146
+        y: 3240
+        width: 1382
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28989267831cf9a4e90d627b2dce3e89
+      internalID: -190494586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re comp_bee_work_9
+      rect:
+        serializedVersion: 2
+        x: 5528
+        y: 3240
+        width: 1382
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d44f98f209dfe24f8abdeb3c6a976a1
+      internalID: -1771387807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re comp_bee_work_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 1382
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18dd8305033c19e4d95dd909400d171d
+      internalID: -201859280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re comp_bee_work_11
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 2160
+        width: 1382
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d593f225988b24ab36c710e4660464
+      internalID: 936116123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re comp_bee_work_12
+      rect:
+        serializedVersion: 2
+        x: 2764
+        y: 2160
+        width: 1382
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365b912700232a34480c043d3c864cf0
+      internalID: -1425373680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re comp_bee_work_13
+      rect:
+        serializedVersion: 2
+        x: 4146
+        y: 2160
+        width: 1382
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab10c95f6e2145d46b3377ad27499c9f
+      internalID: -839423752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re comp_bee_work_14
+      rect:
+        serializedVersion: 2
+        x: 5528
+        y: 2160
+        width: 1382
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025aab4f363413c44a24933f417e2852
+      internalID: -2147269517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re comp_bee_work_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 1382
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b464f7296179564483fd6fadcad3fc9
+      internalID: 738343735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re comp_bee_work_16
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 1080
+        width: 1382
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73599daf8c72ddb4bbcee1bde4f7b102
+      internalID: -727995742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re comp_bee_work_17
+      rect:
+        serializedVersion: 2
+        x: 2764
+        y: 1080
+        width: 1382
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddacd3af1656da4889756b7b62f49e1
+      internalID: 2064440087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re comp_bee_work_18
+      rect:
+        serializedVersion: 2
+        x: 4146
+        y: 1080
+        width: 1382
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70210458a11886a4690a01405a9d412f
+      internalID: 906200634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re comp_bee_work_19
+      rect:
+        serializedVersion: 2
+        x: 5528
+        y: 1080
+        width: 1382
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c4f4b08ad824f4094e5fcf64330fc2
+      internalID: -559293147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re comp_bee_work_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1382
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19cb4725b21d7140afa0bc3de3ffffa
+      internalID: 1690236315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re comp_bee_work_21
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 0
+        width: 1382
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b809e023afbc669479781c099291a710
+      internalID: 617757575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re comp_bee_work_22
+      rect:
+        serializedVersion: 2
+        x: 2764
+        y: 0
+        width: 1382
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efb97537082ce9418ab72444cefeb8d
+      internalID: 253858371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re comp_bee_work_23
+      rect:
+        serializedVersion: 2
+        x: 4146
+        y: 0
+        width: 1382
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec28b9e4081846e4aa1f2462c4f6a005
+      internalID: -486730872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: re comp_bee_work_24
+      rect:
+        serializedVersion: 2
+        x: 5528
+        y: 0
+        width: 1382
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fbc4f0cc0e8f74fa36fa10e5a61624
+      internalID: 2048095357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      re comp_bee_work_3: -1973717960
+      re comp_bee_work_16: -727995742
+      re comp_bee_work_13: -839423752
+      re comp_bee_work_2: 1219003009
+      re comp_bee_work_11: 936116123
+      re comp_bee_work_14: -2147269517
+      re comp_bee_work_18: 906200634
+      re comp_bee_work_20: 1690236315
+      re comp_bee_work_1: -1021075511
+      re comp_bee_work_22: 253858371
+      re comp_bee_work_23: -486730872
+      re comp_bee_work_5: 530362027
+      re comp_bee_work_7: -2134679046
+      re comp_bee_work_6: 902564011
+      re comp_bee_work_21: 617757575
+      re comp_bee_work_10: -201859280
+      re comp_bee_work_15: 738343735
+      re comp_bee_work_17: 2064440087
+      re comp_bee_work_12: -1425373680
+      re comp_bee_work_4: -1884479143
+      re comp_bee_work_9: -1771387807
+      re comp_bee_work_0: -627817437
+      re comp_bee_work_8: -190494586
+      re comp_bee_work_19: -559293147
+      re comp_bee_work_24: 2048095357
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
