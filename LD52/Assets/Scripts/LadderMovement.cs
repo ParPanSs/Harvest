@@ -10,6 +10,8 @@ public class LadderMovement : MonoBehaviour
     
     private bool _isClimbing;
     private bool _inLadder;
+    
+    
     void Start()
     {
         _rb = GetComponent<Rigidbody2D>();
