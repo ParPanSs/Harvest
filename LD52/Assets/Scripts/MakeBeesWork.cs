@@ -14,7 +14,6 @@ public class MakeBeesWork : MonoBehaviour
     public Animator machineAnimator;
     [SerializeField] private float _secondsToIDLE;
     private bool _isBeeLazy = true;
-    
 
     public Animator timer;
 
