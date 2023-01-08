@@ -1,0 +1,1192 @@
+fileFormatVersion: 2
+guid: d9052a4e2a0b7481688394d8fc1a3913
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: smoke bee work_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7560
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56126274be34f497a967091ef8f242b5
+      internalID: -219443721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke bee work_1
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 7560
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da10a0cc3b6f34855a5cb5ce51ce7786
+      internalID: 1449608894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke bee work_2
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 7560
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d028dd2b165084f199e0df792d0bd562
+      internalID: 1077947183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke bee work_3
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 7560
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85680f6a58153414d8300472e0288a04
+      internalID: -1534743862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke bee work_4
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 7560
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cbe0d2c25404a24a907b598fd43416
+      internalID: -709920137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke bee work_5
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 7560
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3cf34cbac364c52af1dbea6a04169d
+      internalID: -1304605378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke bee work_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6480
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c33376825b440fb9bd179472b88ff3
+      internalID: 1525855752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke bee work_7
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 6480
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c17770b348a4d45baedb893fb2925e
+      internalID: 336224160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke bee work_8
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 6480
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afff7ea95134140c0afa1d2fa6449936
+      internalID: 1299234165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke bee work_9
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 6480
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e27eac24df9c4a0a93ddcf2310f4a5d
+      internalID: -1071626059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke bee work_10
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 6480
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b99caa616c594c48a4b6c4ff666bf4f
+      internalID: 130701489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke bee work_11
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 6480
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329ec9eff692f467abe96483887c2c38
+      internalID: -1246362238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke bee work_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5400
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d7e3ee4131041c29718611050d68ba
+      internalID: -6961854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke bee work_13
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 5400
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e683c89eb00204a76ba0cfe77b8cf430
+      internalID: 1471116468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke bee work_14
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 5400
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83a8d458b2f84cf9a50f1f998c25a5c
+      internalID: -21987888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke bee work_15
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 5400
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c34507e95f5456b939a8cde891496c
+      internalID: 795444017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke bee work_16
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 5400
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309c8a9c194434fac87a65d9529f010a
+      internalID: 389785007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke bee work_17
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 5400
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb3480ea53a640b6a3ef6e3596fe030
+      internalID: 217373226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke bee work_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60feb8119256e4e1bb922bcea3835217
+      internalID: 1083433274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke bee work_19
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 4320
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2611c9667eedd4ac885f9265dde1e229
+      internalID: -1305890592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke bee work_20
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 4320
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ac9f0fbab1b4eec9d115f34ef8c4cc
+      internalID: -752873314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke bee work_21
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 4320
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e696b4b62af3a4979b218f5bb5b4a430
+      internalID: 2046463394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke bee work_22
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 4320
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1111bbbb5d1e24e93a4d5d2c54ae8d61
+      internalID: -395369974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke bee work_23
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 4320
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0e52179d6aa42d7885d9343088042c
+      internalID: -2020633863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke bee work_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3240
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb0a4ac03b1047e68f3c084e915f734
+      internalID: 1393983367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke bee work_25
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3240
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e8a57752c7b4622a48ccf562156891
+      internalID: -1014117981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke bee work_26
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 3240
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829f8e4ba42544494a81561250ff190c
+      internalID: -1830111261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke bee work_27
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 3240
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188b7ccea9fe44ffc9ca1638c3908e6e
+      internalID: 927785463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke bee work_28
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 3240
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592f2e6c6a1024215abe217950ee781e
+      internalID: -693279597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke bee work_29
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 3240
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ef6918e5f50433c9b7dfd968a7f630
+      internalID: 1324651113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke bee work_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50804dbf383d44817be7641508204730
+      internalID: 1723042057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke bee work_31
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2160
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af4a78066bfa48ffa31b848b527364b
+      internalID: -1392867650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke bee work_32
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2160
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a54ef26be0ce46a3855a5c7dc6e1ffa
+      internalID: -1382060039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke bee work_33
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 2160
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28829f12637e743228749bfc85cce0ee
+      internalID: -1363808386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke bee work_34
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 2160
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de481d6cedbc5447da276ed6747d4aa9
+      internalID: 99725257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke bee work_35
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 2160
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c989fb81bae4d238d1cd542ad7366e
+      internalID: -1435550202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke bee work_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b8519cb37a24d43bfccb18ad9db660
+      internalID: 126387357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke bee work_37
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1080
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ece235f7a29476e9ee357ef3bf1f36
+      internalID: -1765485443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke bee work_38
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1080
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c294645eb1f034d05a22913ea1599c48
+      internalID: 577832284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke bee work_39
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 1080
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8978ff2938daa472d903f97857cfeda7
+      internalID: 791407631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke bee work_40
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 1080
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f39f97c3d96f479faa6082b9e7df8d8
+      internalID: 279626166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke bee work_41
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 1080
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28b789d1b94943c3a55b219486b626f
+      internalID: 269272768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke bee work_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c4b9069f0bf432a9e36c62ea7f57d1
+      internalID: -1975182139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke bee work_43
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7805cdc1b53214b7d89cc80aadb68ae8
+      internalID: -286311821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke bee work_44
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfeb8e22b2f84c8fb525ec161b922e1
+      internalID: 1816229745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke bee work_45
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 0
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2e268d887dc4278ab4a49ee94518b3
+      internalID: -1557667329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke bee work_46
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 0
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b5fe4a57c504f16bd6e2bb0bf3530f
+      internalID: 1751905343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoke bee work_47
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 0
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d758d49db6a49bd82c70ebfa6d459b
+      internalID: 1373058113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      smoke bee work_21: 2046463394
+      smoke bee work_9: -1071626059
+      smoke bee work_10: 130701489
+      smoke bee work_11: -1246362238
+      smoke bee work_3: -1534743862
+      smoke bee work_7: 336224160
+      smoke bee work_27: 927785463
+      smoke bee work_25: -1014117981
+      smoke bee work_6: 1525855752
+      smoke bee work_12: -6961854
+      smoke bee work_4: -709920137
+      smoke bee work_16: 389785007
+      smoke bee work_0: -219443721
+      smoke bee work_13: 1471116468
+      smoke bee work_15: 795444017
+      smoke bee work_20: -752873314
+      smoke bee work_28: -693279597
+      smoke bee work_38: 577832284
+      smoke bee work_33: -1363808386
+      smoke bee work_26: -1830111261
+      smoke bee work_42: -1975182139
+      smoke bee work_2: 1077947183
+      smoke bee work_44: 1816229745
+      smoke bee work_41: 269272768
+      smoke bee work_19: -1305890592
+      smoke bee work_1: 1449608894
+      smoke bee work_47: 1373058113
+      smoke bee work_32: -1382060039
+      smoke bee work_29: 1324651113
+      smoke bee work_23: -2020633863
+      smoke bee work_18: 1083433274
+      smoke bee work_35: -1435550202
+      smoke bee work_5: -1304605378
+      smoke bee work_8: 1299234165
+      smoke bee work_22: -395369974
+      smoke bee work_31: -1392867650
+      smoke bee work_36: 126387357
+      smoke bee work_45: -1557667329
+      smoke bee work_40: 279626166
+      smoke bee work_14: -21987888
+      smoke bee work_34: 99725257
+      smoke bee work_30: 1723042057
+      smoke bee work_37: -1765485443
+      smoke bee work_43: -286311821
+      smoke bee work_46: 1751905343
+      smoke bee work_39: 791407631
+      smoke bee work_24: 1393983367
+      smoke bee work_17: 217373226
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

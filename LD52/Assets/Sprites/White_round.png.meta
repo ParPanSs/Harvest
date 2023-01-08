@@ -1,0 +1,2248 @@
+fileFormatVersion: 2
+guid: 4a081799f5d2c4be38c59a33b4bc2781
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: White_round_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5192
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17d9b5d3213e46869e656ceaaf69cb1
+      internalID: -834335867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_1
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 5192
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa907de0abeb4b9d8901b43184f30f5
+      internalID: 215478094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_2
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 5192
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8659dff31d687451a983f511469a9802
+      internalID: 282576823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_3
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 5192
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fdbd36aa44d47369d8b62ac2662bc0
+      internalID: -973324184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_4
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 5192
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6765ed67abeb469e84701d2d27ec164
+      internalID: 271727445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_5
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 5192
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b145c2aa4b704cf2b3ac19bf88a0ab9
+      internalID: -1436439382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_6
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 5192
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f663d2d0796d484f80b003f13325fc6
+      internalID: 1496941227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_7
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 5192
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea21f263522ca429d9fca600a5c6e5e2
+      internalID: 174771352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4720
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5fd8da9e4214eb0b0eab915181c1a8
+      internalID: 1280092086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_9
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 4720
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d53c92507efc4e4eb6735cf46711de3
+      internalID: -62704350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_10
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 4720
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a808d97a455f446eb2d74b7162833b6
+      internalID: -2013024792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_11
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 4720
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb05ba5c406654ed08f5b16bd2a6b621
+      internalID: 3367198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_12
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 4720
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389c5704b18f446e19bd2de74a170a5c
+      internalID: -1035224867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_13
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 4720
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de40b46547c4476db9bbe511b2957fa
+      internalID: -382265752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_14
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 4720
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ba27739321446aa9fc457e888d559c
+      internalID: 1200084389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_15
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 4720
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0653a257876294d5baae699476c43ccd
+      internalID: 663427344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4248
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed76838d4a7404483ae52462bb3d56e3
+      internalID: -1471164610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_17
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 4248
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e4679da2ecb41f5998c5efd55afc62
+      internalID: 724577471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_18
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 4248
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8914cebf08824d8d9d928cf336f3fba
+      internalID: 1905230820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_19
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 4248
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf62e398661d448e9b238b449d458817
+      internalID: -1489473786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_20
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 4248
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbb7c12ecb0144c7a0ca5155594d99a
+      internalID: 1806350718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_21
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 4248
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce62e186697646f2a64f15a2497e94c
+      internalID: 2002257950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_22
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 4248
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5ba32a78887479f9d27fd07eaa5620
+      internalID: -2035230893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_23
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 4248
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03d2b0e3e3434bff83d2a6611835cb4
+      internalID: -1944376725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3776
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f551ee82d0a5430586480a2fbd1c910
+      internalID: 799947072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_25
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 3776
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754223e4cdfab4aeabf6099ec2d1b120
+      internalID: 1068832657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_26
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 3776
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b048767020e4b7fbcbc2f0f816a257
+      internalID: 1371151846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_27
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 3776
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903f95360cc744829bd4cc644f2f4e72
+      internalID: 990060316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_28
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 3776
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0f1419ef6d14068a5f21338a4f3ffc
+      internalID: 258311466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_29
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 3776
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eaa500b2870147fb9023c653684bdb5
+      internalID: 568441446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_30
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 3776
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc8bb76b534d4baf9bb029faed13647
+      internalID: 185991375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_31
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 3776
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf629c2bb3eb54b159dd3d9d8ca2eca6
+      internalID: 1528515534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3304
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729cbe20e09dc40408d86f30fcc374e5
+      internalID: 1399773554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_33
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 3304
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb8c47a8a1b4458c89cceeef21ff96a
+      internalID: -1858805890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_34
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 3304
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf88b43a7e034c8da0ae274e74cfa2d
+      internalID: -1659894614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_35
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 3304
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf38faeba57d74af4894770a2211e8ff
+      internalID: 171167344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_36
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 3304
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89c9a0542da042c7aeb16ab38f07ced
+      internalID: -300370581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_37
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 3304
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0414d7771ea4f3e944002b1198f5ca
+      internalID: 1301234030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_38
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 3304
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9bc9d642bab459baddd28a91e81a62
+      internalID: 1721437185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_39
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 3304
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cddb48795f341e7bb5732a315b25e4
+      internalID: -446052871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2832
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4006fd032e44f37ba166d075013bea
+      internalID: -1827034213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_41
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 2832
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b355906f186a940028bdad31ef1abd96
+      internalID: -1104278806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_42
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 2832
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab331509a4de41259991850728ee63b
+      internalID: 1321660554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_43
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 2832
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464f52c2381044aa496407f41831a6f8
+      internalID: 395892146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_44
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 2832
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47dcfedaece4a48ffb6609c3551a59fc
+      internalID: 1945779500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_45
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 2832
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2f1b18abd014cbe81ea070c7cfb547
+      internalID: -858918558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_46
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 2832
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7df50e7e6024c5f952de9ca6ce5f41
+      internalID: -658423349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_47
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 2832
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b08112c653ba470398790ad5eb74f5d
+      internalID: -1441762327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2360
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41244708da739431198cfa38fe99cd19
+      internalID: 348711259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_49
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 2360
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8170b506d4444dbb88d44b6dc8a7c8
+      internalID: -1054264211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_50
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 2360
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53715714dd7ab4ecfb2aee6303ea3a39
+      internalID: -2136076585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_51
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 2360
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f075c5721e6914dbfae4a7de3258ca38
+      internalID: -1792909006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_52
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 2360
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1864970e332c4466a909cba04221f3d1
+      internalID: -1961421400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_53
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 2360
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48bec51c212945ab9c5a1d0ff929523
+      internalID: -1113829546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_54
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 2360
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a50c825ad44f45b7a5cfc2ec704cf9a
+      internalID: -1425209560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_55
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 2360
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a09574f36f14389b1aac226e3d82fb
+      internalID: -58857316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1888
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcce738f118ce45babdc034e6271b2b6
+      internalID: -1194822756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_57
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1888
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4b26fe228364e23af1abfed16fb012
+      internalID: 818997401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_58
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1888
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a231a479a4546e3bbdbc1683277f86
+      internalID: 1752823728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_59
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 1888
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c22a446dd0144f3bda365c84fa4f90
+      internalID: 1818909152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_60
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 1888
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67650499e7f1a44008d7885317a5ef1e
+      internalID: -1055141263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_61
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 1888
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1cca530225940338a2ad83c030fab9
+      internalID: 1968409596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_62
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 1888
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8dead5181d3247dda266b446d9f5b8b
+      internalID: -1694479034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_63
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 1888
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8625d4237ab3b4c2b9de81c5bf772848
+      internalID: 332181027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1416
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8ed8730654a4b1a93166c43a8507cc
+      internalID: 684904623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_65
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1416
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557df7e826ea54a4bb29f7c7d5d46067
+      internalID: 146838113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_66
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1416
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5973d49326faa402ba98b1f3947b5df1
+      internalID: 171407237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_67
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 1416
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15a8ff9a1cf346f897431e1b8489e9b
+      internalID: -1666970600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_68
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 1416
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8b0cdb8f80a42b7a8f823d738c9b22
+      internalID: 1352837441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_69
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 1416
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155ce6da0e3fc41d385f390efaa94a4a
+      internalID: -435944387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_70
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 1416
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d96b1ee1364469f8f2e735627ad156
+      internalID: 1247270867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_71
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 1416
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99bdef81fe174059bcba019d1663afc
+      internalID: -134550978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 944
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47c80edd2a6448a3a9c9ba24667c7af
+      internalID: 144190568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_73
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 944
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542722a18e9cb4990aea675c520d2029
+      internalID: 1286933204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_74
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 944
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090cec2aca1a0416eae8b2be698ab25e
+      internalID: 1832712556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_75
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 944
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2c1e9b184484f60817f0548e2b8f49
+      internalID: -182247012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_76
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 944
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce31348144284d3fb00cf6c5f500e7c
+      internalID: 1249960320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_77
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 944
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73548933acae8492a9ec7103cef770b4
+      internalID: 1730462663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_78
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 944
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357ca09f9a8b844c4a5b7f069cc129b2
+      internalID: -1433835405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_79
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 944
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69768f285c05472396f856b4e6b09d5
+      internalID: -360788481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 472
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf170950c4b74527b5110ac1a80190f
+      internalID: 720442428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_81
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 472
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74296efe21c04496ba1a528dc2f1350
+      internalID: 1561007758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_82
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 472
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1bf2cdc74fb4e669e149a76bbbeadf
+      internalID: 1307782678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_83
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 472
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6596743f757f94e0c9e7aae9d038fef0
+      internalID: -843568680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_84
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 472
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c06696b49d042eab08631381a234bf
+      internalID: -2081302140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_85
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 472
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e222088fa90574b24b05eed66e530e52
+      internalID: 1495525678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_86
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 472
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f192a18b1d40f4cea8dcd5c91d5b9073
+      internalID: 1240667585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_87
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 472
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74c95191aae04f31aebaa995fdf4384
+      internalID: -1365692163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9055f69d4e345b5a97036fe2cb2770
+      internalID: 473807093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_89
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 0
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add81739dfb424324b1912615903014f
+      internalID: -643184066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_90
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 0
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693dddd90dea546239107f2d9b882dbb
+      internalID: 275417112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_91
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 0
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0800b0869d8054cfda0d6e2a7df1efb9
+      internalID: -165049505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_92
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 0
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3b2fab1607f46ac98395c25f13e44a
+      internalID: -1237006526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_93
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 0
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee7c758910724f81b75348901fa7f37
+      internalID: -170934232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_94
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 0
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e527429ca4d407cb541a5abc662272
+      internalID: 1111089961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White_round_95
+      rect:
+        serializedVersion: 2
+        x: 3444
+        y: 0
+        width: 492
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3133cfe5e6149daaa266b2f28a0a31
+      internalID: -183095362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      White_round_36: -300370581
+      White_round_19: -1489473786
+      White_round_30: 185991375
+      White_round_45: -858918558
+      White_round_95: -183095362
+      White_round_74: 1832712556
+      White_round_92: -1237006526
+      White_round_8: 1280092086
+      White_round_85: 1495525678
+      White_round_43: 395892146
+      White_round_71: -134550978
+      White_round_0: -834335867
+      White_round_94: 1111089961
+      White_round_62: -1694479034
+      White_round_46: -658423349
+      White_round_9: -62704350
+      White_round_90: 275417112
+      White_round_88: 473807093
+      White_round_2: 282576823
+      White_round_11: 3367198
+      White_round_42: 1321660554
+      White_round_79: -360788481
+      White_round_86: 1240667585
+      White_round_60: -1055141263
+      White_round_6: 1496941227
+      White_round_14: 1200084389
+      White_round_57: 818997401
+      White_round_47: -1441762327
+      White_round_75: -182247012
+      White_round_25: 1068832657
+      White_round_38: 1721437185
+      White_round_41: -1104278806
+      White_round_44: 1945779500
+      White_round_13: -382265752
+      White_round_58: 1752823728
+      White_round_61: 1968409596
+      White_round_87: -1365692163
+      White_round_48: 348711259
+      White_round_91: -165049505
+      White_round_28: 258311466
+      White_round_23: -1944376725
+      White_round_17: 724577471
+      White_round_68: 1352837441
+      White_round_52: -1961421400
+      White_round_22: -2035230893
+      White_round_39: -446052871
+      White_round_20: 1806350718
+      White_round_51: -1792909006
+      White_round_53: -1113829546
+      White_round_64: 684904623
+      White_round_76: 1249960320
+      White_round_31: 1528515534
+      White_round_24: 799947072
+      White_round_29: 568441446
+      White_round_80: 720442428
+      White_round_82: 1307782678
+      White_round_84: -2081302140
+      White_round_3: -973324184
+      White_round_59: 1818909152
+      White_round_70: 1247270867
+      White_round_69: -435944387
+      White_round_49: -1054264211
+      White_round_4: 271727445
+      White_round_77: 1730462663
+      White_round_26: 1371151846
+      White_round_65: 146838113
+      White_round_55: -58857316
+      White_round_66: 171407237
+      White_round_12: -1035224867
+      White_round_81: 1561007758
+      White_round_21: 2002257950
+      White_round_67: -1666970600
+      White_round_32: 1399773554
+      White_round_7: 174771352
+      White_round_63: 332181027
+      White_round_35: 171167344
+      White_round_40: -1827034213
+      White_round_18: 1905230820
+      White_round_93: -170934232
+      White_round_50: -2136076585
+      White_round_89: -643184066
+      White_round_56: -1194822756
+      White_round_73: 1286933204
+      White_round_10: -2013024792
+      White_round_34: -1659894614
+      White_round_33: -1858805890
+      White_round_1: 215478094
+      White_round_37: 1301234030
+      White_round_54: -1425209560
+      White_round_5: -1436439382
+      White_round_15: 663427344
+      White_round_27: 990060316
+      White_round_72: 144190568
+      White_round_16: -1471164610
+      White_round_78: -1433835405
+      White_round_83: -843568680
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

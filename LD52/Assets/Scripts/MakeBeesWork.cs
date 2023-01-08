@@ -34,9 +34,9 @@ public class MakeBeesWork : MonoBehaviour
         animator.SetBool("isAnger", false);
         _isBeeLazy = false;
         beeAnimator.SetBool("Working", true);
-        machineAnimator.enabled = true;
         timer.SetBool("ticking", true);
         StartCoroutine(BackToIDLE());
+        machineAnimator.enabled = true;
     }
     public void Destruction()
     {

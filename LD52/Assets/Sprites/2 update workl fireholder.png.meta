@@ -1,0 +1,1456 @@
+fileFormatVersion: 2
+guid: 0ed85b10c3ec44c05bcdfb8cc637dfdf
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2 update workl fireholder_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9720
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6413f6dd0934ea395e97632d9612ae
+      internalID: 768922745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_1
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 9720
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba549d496b1f45949149e8daec0ebbe
+      internalID: -1556718918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_2
+      rect:
+        serializedVersion: 2
+        x: 4148
+        y: 9720
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ebd1e97d26a414fb76a92372c2c64a
+      internalID: 1254898733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_3
+      rect:
+        serializedVersion: 2
+        x: 6222
+        y: 9720
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574f356f30a2e408c8c797eedd2f0267
+      internalID: 1136433491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_4
+      rect:
+        serializedVersion: 2
+        x: 8296
+        y: 9720
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d069359367ec455aaa802d1dbe88c79
+      internalID: 1976740394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_5
+      rect:
+        serializedVersion: 2
+        x: 10370
+        y: 9720
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13463fbdac6564144999991fb5e34775
+      internalID: -1065111928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8640
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571e043fb995d4b4da235797f89e19bb
+      internalID: -119132148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_7
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 8640
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098971f7cdb13495caf27363ab3b0a2a
+      internalID: 1599443274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_8
+      rect:
+        serializedVersion: 2
+        x: 4148
+        y: 8640
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494e797cfecd140c183ee30040471853
+      internalID: 1377189778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_9
+      rect:
+        serializedVersion: 2
+        x: 6222
+        y: 8640
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6c7ab4d0e0a46719bf662dc61cd14a
+      internalID: -579878956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_10
+      rect:
+        serializedVersion: 2
+        x: 8296
+        y: 8640
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73b472bb4ddb44788ad80cb1e8ca7ac
+      internalID: 1972194203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_11
+      rect:
+        serializedVersion: 2
+        x: 10370
+        y: 8640
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c7733871fb24b9aa238a547e8a1424
+      internalID: 1317873501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7560
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f6cf440c17d40c6a13163935f7fe16
+      internalID: 1089202633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_13
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 7560
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80461e38ba7d744a4a5d127332ae4026
+      internalID: 799916100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_14
+      rect:
+        serializedVersion: 2
+        x: 4148
+        y: 7560
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7150f59f9af4724afa899fe29d730d
+      internalID: -1621957031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_15
+      rect:
+        serializedVersion: 2
+        x: 6222
+        y: 7560
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e66ea804d95457e8ed3d3b8dd9fd2b
+      internalID: -1089843726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_16
+      rect:
+        serializedVersion: 2
+        x: 8296
+        y: 7560
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afc5abdd833643aead4a715ea4982a8
+      internalID: 1110668734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_17
+      rect:
+        serializedVersion: 2
+        x: 10370
+        y: 7560
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd459a9799ef467da07bfccb4f55334
+      internalID: 1378487373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6480
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca8986df5ece475b9148708dc5dd7fb
+      internalID: 845763444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_19
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 6480
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f90843cb1ef94d1ba16736c18e60da7
+      internalID: 295572286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_20
+      rect:
+        serializedVersion: 2
+        x: 4148
+        y: 6480
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45cd968ead681405c97d3a609a442932
+      internalID: 602559611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_21
+      rect:
+        serializedVersion: 2
+        x: 6222
+        y: 6480
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176d209236d504dfdacc091bc5a05345
+      internalID: -1138219853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_22
+      rect:
+        serializedVersion: 2
+        x: 8296
+        y: 6480
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94445f78d89f1457a81eb3ad5006bb09
+      internalID: 1638526383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_23
+      rect:
+        serializedVersion: 2
+        x: 10370
+        y: 6480
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7a0a565ef2f4721b2243bc1ad034de
+      internalID: -794535758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5400
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826821d48881e4ccbae19fe6570bf85e
+      internalID: -285952294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_25
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 5400
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1262ccfc2b0574eafb8f07ce25f952b2
+      internalID: -1936814994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_26
+      rect:
+        serializedVersion: 2
+        x: 4148
+        y: 5400
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e41d98db0b540d8b3058fb61cd9843
+      internalID: 397210743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_27
+      rect:
+        serializedVersion: 2
+        x: 6222
+        y: 5400
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741340a7bd5584c398cc5db4f45e0e33
+      internalID: -1885897350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_28
+      rect:
+        serializedVersion: 2
+        x: 8296
+        y: 5400
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bd545ceb2f64dfa9ac434d98f19121
+      internalID: 1246293130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_29
+      rect:
+        serializedVersion: 2
+        x: 10370
+        y: 5400
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32631fe3fd22c4d35921c470fc07bd36
+      internalID: -190016506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d037d4b65248745eb8afadceee2d258c
+      internalID: -163810235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_31
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 4320
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b5481aa413640f888328c8bf43c0f8
+      internalID: -1878411691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_32
+      rect:
+        serializedVersion: 2
+        x: 4148
+        y: 4320
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45df1939180a64b649057b30e9782789
+      internalID: -184039665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_33
+      rect:
+        serializedVersion: 2
+        x: 6222
+        y: 4320
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85975b8b121f4776b7a008af759d274
+      internalID: 256459404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_34
+      rect:
+        serializedVersion: 2
+        x: 8296
+        y: 4320
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e671fd4c273b49f2b3e19ed2242ecfa
+      internalID: 170043084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_35
+      rect:
+        serializedVersion: 2
+        x: 10370
+        y: 4320
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae5499b854064dff86353f7ebddac93
+      internalID: 28466826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3240
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef189648e921d464aa79425609b9fd0e
+      internalID: 335323802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_37
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 3240
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6babddf45687645ad848d0d2645a4dee
+      internalID: -1687030228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_38
+      rect:
+        serializedVersion: 2
+        x: 4148
+        y: 3240
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64877311ad63e44a3b285b8ebed2ac20
+      internalID: 1899960544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_39
+      rect:
+        serializedVersion: 2
+        x: 6222
+        y: 3240
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef5c9f5ac00d41c9a79ac636bed2924
+      internalID: -119162731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_40
+      rect:
+        serializedVersion: 2
+        x: 8296
+        y: 3240
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02abe3d253d5e408abc0a3d795977491
+      internalID: -132960394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_41
+      rect:
+        serializedVersion: 2
+        x: 10370
+        y: 3240
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69eac3d506530460bb3421bfcf288187
+      internalID: 1579822533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa247c61a4924b6e8fc32f8ba21ff62
+      internalID: -1866600518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_43
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 2160
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192cccb1d5e084ef78571a08a20a6006
+      internalID: 1081163249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_44
+      rect:
+        serializedVersion: 2
+        x: 4148
+        y: 2160
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2650a7bff5f60402bbbb136e33396509
+      internalID: -217195615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_45
+      rect:
+        serializedVersion: 2
+        x: 6222
+        y: 2160
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060de3e08500b4fc6a80540cf68f630e
+      internalID: -109554039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_46
+      rect:
+        serializedVersion: 2
+        x: 8296
+        y: 2160
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e959be49feca45299bcf8aeb5deb531
+      internalID: 1915001020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_47
+      rect:
+        serializedVersion: 2
+        x: 10370
+        y: 2160
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074435079b40a4f75bf6e922323a7f96
+      internalID: -1446489245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe1cc67861b54be0bb6b953a92134dc
+      internalID: -1831191988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_49
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 1080
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0a37ff5088042afba89679a1b9cd07
+      internalID: -647800007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_50
+      rect:
+        serializedVersion: 2
+        x: 4148
+        y: 1080
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e74395dd2214fd6a86884ea626db91
+      internalID: -321485908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_51
+      rect:
+        serializedVersion: 2
+        x: 6222
+        y: 1080
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f456fb2e8aa6c489b993d2ea354ccda6
+      internalID: -1233773833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_52
+      rect:
+        serializedVersion: 2
+        x: 8296
+        y: 1080
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0a3a036d4564a509ce6a2a43d50702
+      internalID: 1060297859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_53
+      rect:
+        serializedVersion: 2
+        x: 10370
+        y: 1080
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5b7033cd62f49a2a3c9e8c0646b08c
+      internalID: 132764689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf75c98c5a7394404a5799759557d75e
+      internalID: 249788327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_55
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 0
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4525fb47a81a242348dccd93a1fbb456
+      internalID: -804395184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_56
+      rect:
+        serializedVersion: 2
+        x: 4148
+        y: 0
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7827efc5390a6452eb152e08228c011e
+      internalID: -1848527684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_57
+      rect:
+        serializedVersion: 2
+        x: 6222
+        y: 0
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf4959fbe32749bbb7fb8eb06710b33
+      internalID: -1442510737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_58
+      rect:
+        serializedVersion: 2
+        x: 8296
+        y: 0
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5daca76249e2743e78f35e6191fd7995
+      internalID: 1357877847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2 update workl fireholder_59
+      rect:
+        serializedVersion: 2
+        x: 10370
+        y: 0
+        width: 2074
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4f8f1d599054c9594423742983e6f1
+      internalID: -970949048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      2 update workl fireholder_32: -184039665
+      2 update workl fireholder_11: 1317873501
+      2 update workl fireholder_45: -109554039
+      2 update workl fireholder_56: -1848527684
+      2 update workl fireholder_17: 1378487373
+      2 update workl fireholder_33: 256459404
+      2 update workl fireholder_53: 132764689
+      2 update workl fireholder_50: -321485908
+      2 update workl fireholder_34: 170043084
+      2 update workl fireholder_35: 28466826
+      2 update workl fireholder_19: 295572286
+      2 update workl fireholder_16: 1110668734
+      2 update workl fireholder_29: -190016506
+      2 update workl fireholder_36: 335323802
+      2 update workl fireholder_37: -1687030228
+      2 update workl fireholder_42: -1866600518
+      2 update workl fireholder_40: -132960394
+      2 update workl fireholder_43: 1081163249
+      2 update workl fireholder_23: -794535758
+      2 update workl fireholder_22: 1638526383
+      2 update workl fireholder_26: 397210743
+      2 update workl fireholder_3: 1136433491
+      2 update workl fireholder_5: -1065111928
+      2 update workl fireholder_27: -1885897350
+      2 update workl fireholder_21: -1138219853
+      2 update workl fireholder_30: -163810235
+      2 update workl fireholder_18: 845763444
+      2 update workl fireholder_44: -217195615
+      2 update workl fireholder_59: -970949048
+      2 update workl fireholder_8: 1377189778
+      2 update workl fireholder_7: 1599443274
+      2 update workl fireholder_25: -1936814994
+      2 update workl fireholder_51: -1233773833
+      2 update workl fireholder_39: -119162731
+      2 update workl fireholder_10: 1972194203
+      2 update workl fireholder_24: -285952294
+      2 update workl fireholder_6: -119132148
+      2 update workl fireholder_31: -1878411691
+      2 update workl fireholder_41: 1579822533
+      2 update workl fireholder_46: 1915001020
+      2 update workl fireholder_55: -804395184
+      2 update workl fireholder_0: 768922745
+      2 update workl fireholder_52: 1060297859
+      2 update workl fireholder_13: 799916100
+      2 update workl fireholder_12: 1089202633
+      2 update workl fireholder_20: 602559611
+      2 update workl fireholder_49: -647800007
+      2 update workl fireholder_38: 1899960544
+      2 update workl fireholder_57: -1442510737
+      2 update workl fireholder_14: -1621957031
+      2 update workl fireholder_1: -1556718918
+      2 update workl fireholder_54: 249788327
+      2 update workl fireholder_48: -1831191988
+      2 update workl fireholder_47: -1446489245
+      2 update workl fireholder_15: -1089843726
+      2 update workl fireholder_2: 1254898733
+      2 update workl fireholder_9: -579878956
+      2 update workl fireholder_28: 1246293130
+      2 update workl fireholder_4: 1976740394
+      2 update workl fireholder_58: 1357877847
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

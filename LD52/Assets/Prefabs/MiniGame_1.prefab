@@ -317,8 +317,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4024729915285147474}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -7.5, y: -3, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: -7.5, y: -3.4, z: 0}
+  m_LocalScale: {x: 1, y: 2, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 6508203657082151900}
@@ -366,7 +366,7 @@ SpriteRenderer:
   m_SortingLayer: 5
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: cc1452fd9668d434a9ce83f40c5091c2, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.7075472, g: 0.69705176, b: 0.67083484, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -545,7 +545,7 @@ SpriteRenderer:
   m_SortingLayerID: 1195346283
   m_SortingLayer: 5
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 4bbc8157adb9440c286c12636e1bd811, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 2cf2ff06b7f62466b820d3cdd26e1500, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -568,8 +568,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3da8b3d3dce0b4d4e8e740323b5e2775, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pressedButton: {fileID: 21300000, guid: 116414ab055d34a3aafe834a27f33b95, type: 3}
-  defaultButton: {fileID: 21300000, guid: 4bbc8157adb9440c286c12636e1bd811, type: 3}
+  pressedButton: {fileID: 21300000, guid: 976daf0c5d75b40d29c9f595bb7296dc, type: 3}
+  defaultButton: {fileID: 21300000, guid: 2cf2ff06b7f62466b820d3cdd26e1500, type: 3}
   keyToPress: 304
 --- !u!1 &5289566147682855077
 GameObject:
@@ -941,7 +941,7 @@ SpriteRenderer:
   m_SortingLayerID: 1195346283
   m_SortingLayer: 5
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 4bbc8157adb9440c286c12636e1bd811, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e6cc932ff823742b48e4fb0f8c39ea49, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -964,8 +964,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3da8b3d3dce0b4d4e8e740323b5e2775, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pressedButton: {fileID: 21300000, guid: 116414ab055d34a3aafe834a27f33b95, type: 3}
-  defaultButton: {fileID: 21300000, guid: 4bbc8157adb9440c286c12636e1bd811, type: 3}
+  pressedButton: {fileID: 21300000, guid: 147e14cce75414dc7a7237368335a6ea, type: 3}
+  defaultButton: {fileID: 21300000, guid: e6cc932ff823742b48e4fb0f8c39ea49, type: 3}
   keyToPress: 303
 --- !u!1 &8479494420470412714
 GameObject:
@@ -1138,8 +1138,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8812848007814756676}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5.5, y: -3, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 5.5, y: -3.4, z: 0}
+  m_LocalScale: {x: 1, y: 2, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 6508203657082151900}
@@ -1187,7 +1187,7 @@ SpriteRenderer:
   m_SortingLayer: 5
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: cc1452fd9668d434a9ce83f40c5091c2, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.7075472, g: 0.69705176, b: 0.67083484, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0

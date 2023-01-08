@@ -1,0 +1,1192 @@
+fileFormatVersion: 2
+guid: 16c69f7adac21462c9edf3e5855ee127
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sota2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2568
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac58eecc6a8bc4de9a4a67a55a770f66
+      internalID: -891845060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sota2_1
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 2568
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c632678afeade4cffbaaeccee87a5bac
+      internalID: 1427808038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sota2_2
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 2568
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc5451ca5a8b40efb99b74dedfdbe07
+      internalID: 170690879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sota2_3
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 2568
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0de5e0653c147b28be1a08efcba9d5
+      internalID: -1242720772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sota2_4
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 2568
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bddfb2ac8e4741a39b822c543fdbf0c
+      internalID: 1038982838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sota2_5
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 2568
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281bd888e79d4488f93f8f6262e2cb47
+      internalID: 1110032937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sota2_6
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 2568
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3746a05a614b64fbc9f19e56242c299b
+      internalID: -1088177953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sota2_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2140
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c81b6a1baa9040b88061214b991e1e9
+      internalID: -1531899862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sota2_8
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 2140
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c141287199b374fc3a64707b292e5041
+      internalID: 870319800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sota2_9
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 2140
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabfca137208a4590bba2974e3fccb74
+      internalID: -1084564278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sota2_10
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 2140
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1d0c88225e945fdabdc0cb00b9108a
+      internalID: -1475119702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sota2_11
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 2140
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cfa144745fc4842872d5f17ca85f53
+      internalID: 2120531817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sota2_12
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 2140
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38142bac83584246beb03f0ce1dbafe
+      internalID: 2018562349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sota2_13
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 2140
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c244715a57a44c0e8194f47ec564d85
+      internalID: -860961389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sota2_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1712
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15647b2cd88a34d82b568964a419466e
+      internalID: -385050448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sota2_15
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1712
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc98587b27412416e8e8fb1c42739f43
+      internalID: 431524828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sota2_16
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1712
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5756827edeab04e189b50a216f2da913
+      internalID: 1130832658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sota2_17
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1712
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56548f55d59c4252b9c2d2662b2d25e
+      internalID: 933939562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sota2_18
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 1712
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0f92a0b51c44e1ea91e426a5769c63
+      internalID: 109541104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sota2_19
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 1712
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0f9e17ee78843c2b7afc9c59ad51bf
+      internalID: 1998744728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sota2_20
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 1712
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa458b11aa7e4038bf32a5b5b5554a2
+      internalID: 1046273934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sota2_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1284
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c73db0e70fca4e66aef7f1d57b44e19
+      internalID: 2006306487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sota2_22
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1284
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53889c42a4e0543d4bbe4e377480af17
+      internalID: 585141832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sota2_23
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1284
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c350767567e948eb8ace665000563d0
+      internalID: -2068634246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sota2_24
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1284
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc52d31166ef42ddad32784c45f2d42
+      internalID: 1654565936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sota2_25
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 1284
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad630cdfc99b84248b07d3bfd9de0bff
+      internalID: -1689123669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sota2_26
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 1284
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f0ddd957b03411f89663a7faf9e6a3
+      internalID: 2064615891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sota2_27
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 1284
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c788a08b28946a49028ee4fd5b3eff
+      internalID: -1619900358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sota2_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 856
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a31ea55edbf4b9ebf3696dc694677d
+      internalID: -2056689344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sota2_29
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 856
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540fcbe46d32646f18806e6c18b163c4
+      internalID: -1342592925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sota2_30
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 856
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b347c0917bfc74b9588196a6955243a7
+      internalID: -439527664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sota2_31
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 856
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375dc6455692a4e60bde72c0c73ca3d6
+      internalID: 998781070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sota2_32
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 856
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0ea77c61b8543359269767d19c4cee
+      internalID: -1629552099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sota2_33
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 856
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61924bbda899b48a0b449efe64f69a89
+      internalID: 1443048674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sota2_34
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 856
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3a00eedf7b2443eb4b561b70e25ab7
+      internalID: 998363581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sota2_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 428
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27dc74eb23b9740a4ad2d9fbaca30fcc
+      internalID: -935914810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sota2_36
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 428
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207b608d3787d407aa843ed6973f3b5d
+      internalID: -308428918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sota2_37
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 428
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56c787454ef842e9ae5e129c406cd82
+      internalID: -1881150826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sota2_38
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 428
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad9b8244130a49e1ad8fd2b72f4449c
+      internalID: 1418820530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sota2_39
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 428
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67afe3027172d4ae3a1e25b2349edf86
+      internalID: 794054461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sota2_40
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 428
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f023649435d34f708ef64978b49ba58
+      internalID: -277179851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sota2_41
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 428
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3e01137241646a6a6ba59a8ebc9b09
+      internalID: 1319220015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sota2_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407888d3e93c24eb1a515313cf30fb1d
+      internalID: 1921469275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sota2_43
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 0
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6005f1b11f4d64b6e85393c4dd2849f8
+      internalID: -1313506364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sota2_44
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 0
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd24e2b9528c04193b1fe1283b1a27c3
+      internalID: 1449690970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sota2_45
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 0
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00dc02bfdbb98428eaa6c6c9e395ea91
+      internalID: -787806731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sota2_46
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 0
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667213acf71474230a6db2f940a144e4
+      internalID: -1044594787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sota2_47
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 0
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c499a42b56c8e46f29f6b1c68e3f42a6
+      internalID: 1720499299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sota2_5: 1110032937
+      sota2_17: 933939562
+      sota2_24: 1654565936
+      sota2_46: -1044594787
+      sota2_20: 1046273934
+      sota2_13: -860961389
+      sota2_11: 2120531817
+      sota2_42: 1921469275
+      sota2_36: -308428918
+      sota2_1: 1427808038
+      sota2_29: -1342592925
+      sota2_39: 794054461
+      sota2_8: 870319800
+      sota2_15: 431524828
+      sota2_18: 109541104
+      sota2_43: -1313506364
+      sota2_4: 1038982838
+      sota2_21: 2006306487
+      sota2_45: -787806731
+      sota2_41: 1319220015
+      sota2_6: -1088177953
+      sota2_38: 1418820530
+      sota2_2: 170690879
+      sota2_26: 2064615891
+      sota2_19: 1998744728
+      sota2_16: 1130832658
+      sota2_25: -1689123669
+      sota2_40: -277179851
+      sota2_31: 998781070
+      sota2_12: 2018562349
+      sota2_23: -2068634246
+      sota2_22: 585141832
+      sota2_3: -1242720772
+      sota2_10: -1475119702
+      sota2_32: -1629552099
+      sota2_30: -439527664
+      sota2_35: -935914810
+      sota2_37: -1881150826
+      sota2_0: -891845060
+      sota2_9: -1084564278
+      sota2_28: -2056689344
+      sota2_7: -1531899862
+      sota2_33: 1443048674
+      sota2_14: -385050448
+      sota2_34: 998363581
+      sota2_44: 1449690970
+      sota2_47: 1720499299
+      sota2_27: -1619900358
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
