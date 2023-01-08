@@ -14,7 +14,7 @@ public class MakeBeesWork : MonoBehaviour
     public Animator machineAnimator;
     [SerializeField] private float _secondsToIDLE;
     private bool _isBeeLazy = true;
-    public AnimationClip timerClip;
+    
 
     public Animator timer;
 
@@ -36,7 +36,7 @@ public class MakeBeesWork : MonoBehaviour
         _isBeeLazy = false;
         beeAnimator.SetBool("Working", true);
         machineAnimator.enabled = true;
-        timer.Play(timerClip.name);
+        timer.SetBool("ticking", true);
         StartCoroutine(BackToIDLE());
     }
     public void Destruction()
@@ -63,7 +63,8 @@ public class MakeBeesWork : MonoBehaviour
 
     IEnumerator BackToIDLE()
     {
-        yield return new WaitForSeconds(_secondsToIDLE);
+        yield return new WaitForSeconds(_secondsToIDLE);        
+        timer.SetBool("ticking", false);
         _isBeeLazy = true;
         beeAnimator.SetBool("Working", false);
         machineAnimator.enabled = false;
