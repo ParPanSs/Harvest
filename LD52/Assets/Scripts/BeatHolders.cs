@@ -26,7 +26,7 @@ public class BeatHolders : MonoBehaviour
                 {
                     isNotActive[i] = true;
                     Destroy(childInHolder[i]);               
-                    _speed.fallSpeed += 2;
+                    _speed.fallSpeed += 1;
                     break;
                 }
             }
