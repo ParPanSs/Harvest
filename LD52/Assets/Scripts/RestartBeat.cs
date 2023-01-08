@@ -2,9 +2,10 @@ using UnityEngine;
 
 public class RestartBeat : MonoBehaviour
 {
+    public bool isDead;
     void OnTriggerEnter2D(Collider2D other)
     {
-        Debug.Log("Restart");
-        //SceneManager.LoadScene(0);
+        if (other.CompareTag("DeadZone"))
+            isDead = true;
     }
 }

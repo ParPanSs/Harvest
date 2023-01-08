@@ -5,11 +5,13 @@ TagManager:
   serializedVersion: 2
   tags:
   - BeatHolder
+  - Ladder
+  - Bee
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Ladder
   - Water
   - UI
   - 
@@ -44,4 +46,13 @@ TagManager:
     locked: 0
   - name: ButtonsToPress
     uniqueID: 719888941
+    locked: 0
+  - name: Office
+    uniqueID: 3085510809
+    locked: 0
+  - name: Ladder
+    uniqueID: 1168034281
+    locked: 0
+  - name: 'Bees  '
+    uniqueID: 1948941051
     locked: 0

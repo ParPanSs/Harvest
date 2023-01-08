@@ -1,10 +1,8 @@
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
 public class CubesController : MonoBehaviour
 {
     public float fallSpeed;
-    public bool hasStarted;
 
     void Start()
     {
@@ -13,16 +11,6 @@ public class CubesController : MonoBehaviour
 
     void Update()
     {
-        if (!hasStarted)
-        {
-            if (Input.anyKeyDown)
-            {
-                hasStarted = true;
-            }
-        }
-        else
-        {
-            transform.position -= new Vector3(0f, fallSpeed * Time.deltaTime, 0f);
-        }
+        transform.position -= new Vector3(0f, fallSpeed * Time.deltaTime, 0f);
     }
 }
