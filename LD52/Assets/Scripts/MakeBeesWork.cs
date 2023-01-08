@@ -2,25 +2,39 @@ using UnityEngine;
 
 public class MakeBeesWork : MonoBehaviour
 {
-    private RestartBeat _restart;
+    public Rigidbody2D rb;
     public Animator animator;
+    public Animator beeAnimator;
     public GameObject miniGamePrefab;
     public GameObject miniGameCopy;
-    public Transform miniGameSpawnPoint;    
     private bool _isAboutBee;
+    private bool _isMiniGame;
+    public Animator machineAnimator;
 
     void Update()
     {
-        Debug.Log(_restart.isDead);
         if (_isAboutBee && Input.GetKeyDown(KeyCode.E))
         {
+            miniGameCopy = Instantiate(miniGamePrefab, gameObject.transform, false);
             animator.SetBool("isAnger", true);
-            miniGameCopy = Instantiate(miniGamePrefab, miniGameSpawnPoint);
+            rb.bodyType = RigidbodyType2D.Static;
         }
-        if(_restart.isDead)
-            Destroy(miniGameCopy);
     }
-    
+
+    public void Success()
+    {
+        Destroy(miniGameCopy);        
+        rb.bodyType = RigidbodyType2D.Dynamic;
+        animator.SetBool("isAnger", false);
+        beeAnimator.SetBool("Working", true);
+        machineAnimator.enabled = true;
+    }
+    public void Destruction()
+    {
+        Destroy(miniGameCopy);
+        animator.SetBool("isAnger", false);
+        rb.bodyType = RigidbodyType2D.Dynamic;
+    }
     private void OnTriggerEnter2D(Collider2D col)
     {
         if (col.CompareTag("Player"))
@@ -35,10 +49,5 @@ public class MakeBeesWork : MonoBehaviour
         {
             _isAboutBee = false;
         }
-    }
-
-    private void Destruction()
-    {
-        Destroy(miniGameCopy);
     }
 }

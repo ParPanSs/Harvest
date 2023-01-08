@@ -28,7 +28,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 911128370249974777}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 6.32, y: 1.39, z: 0}
+  m_LocalPosition: {x: 6.32, y: 1.3899999, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -146,7 +146,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 60f81dbab76674d11899ac6a66e0a67d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isDead: 0
 --- !u!1 &3338343227399194022
 GameObject:
   m_ObjectHideFlags: 0
@@ -293,7 +292,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 60f81dbab76674d11899ac6a66e0a67d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isDead: 0
 --- !u!1 &4051305327290028673
 GameObject:
   m_ObjectHideFlags: 0
@@ -305,7 +303,7 @@ GameObject:
   - component: {fileID: 6508203657082151900}
   m_Layer: 0
   m_Name: MiniGame_1
-  m_TagString: Untagged
+  m_TagString: MiniGame
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -318,7 +316,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4051305327290028673}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.98692364, y: 2.0241437, z: -0.023548216}
+  m_LocalPosition: {x: 1, y: 2, z: -0.023548216}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -585,6 +583,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   fallSpeed: 120
+  script: {fileID: 0}
 --- !u!1 &5289566147745762915
 GameObject:
   m_ObjectHideFlags: 0
@@ -782,7 +781,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 60f81dbab76674d11899ac6a66e0a67d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isDead: 0
 --- !u!1 &5289566148456441942
 GameObject:
   m_ObjectHideFlags: 0
@@ -911,7 +909,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8479494420470412714}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 6.32, y: 2.95, z: 0}
+  m_LocalPosition: {x: 6.32, y: 2.9500003, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1029,4 +1027,3 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 60f81dbab76674d11899ac6a66e0a67d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isDead: 0
