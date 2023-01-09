@@ -1967,6 +1967,7 @@ MonoBehaviour:
   - {fileID: 1026642362446236761}
   - {fileID: 982604896224751526}
   isNotActiveLeft: 0000000000000000000000000000000000000000
+  miniGame: {fileID: 0}
 --- !u!1 &5289566147726291064
 GameObject:
   m_ObjectHideFlags: 0
@@ -2013,7 +2014,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43766474913e44d578db3c53e8677157, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fallSpeed: 20
+  fallSpeed: 120
   script: {fileID: 0}
 --- !u!1 &5289566147745762915
 GameObject:
@@ -2061,6 +2062,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   childInHolderLeft: []
   isNotActiveLeft: 
+  miniGame: {fileID: 0}
 --- !u!1 &5289566147917881165
 GameObject:
   m_ObjectHideFlags: 0

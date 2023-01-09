@@ -19,6 +19,7 @@ public class CharacterController : MonoBehaviour
         _rb = GetComponent<Rigidbody2D>();
         _animator = GetComponent<Animator>();
         _rb.simulated = false;
+        phoneCall.Play();
     }
 
     void Update()
