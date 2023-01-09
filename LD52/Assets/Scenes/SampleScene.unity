@@ -2376,7 +2376,7 @@ Camera:
     width: 1
     height: 1
   near clip plane: 0.3
-  far clip plane: 1000
+  far clip plane: 10
   field of view: 60
   orthographic: 1
   orthographic size: 10
@@ -5633,7 +5633,7 @@ MonoBehaviour:
     FieldOfView: 60
     OrthographicSize: 10
     NearClipPlane: 0.3
-    FarClipPlane: 1000
+    FarClipPlane: 10
     Dutch: 0
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
@@ -7241,7 +7241,7 @@ SpriteRenderer:
   m_Size: {x: 19.199999, y: 10.799999}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1754238582
@@ -7253,7 +7253,7 @@ Transform:
   m_GameObject: {fileID: 1754238579}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -4.47, y: 6.17, z: 0}
-  m_LocalScale: {x: 2.13444, y: 2.32848, z: 1.7248}
+  m_LocalScale: {x: 1, y: 1, z: 1.7248}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
