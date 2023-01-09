@@ -2516,7 +2516,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 98206e6cbe1263e4d86df2cd8333d5d3, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.03
+  m_Volume: 0.06
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -2917,7 +2917,7 @@ MonoBehaviour:
   miniGamePrefab: {fileID: 4051305327290028673, guid: 8baad0f77361848b78430a0712d7ce33, type: 3}
   miniGameCopy: {fileID: 0}
   machineAnimator: {fileID: 872954748}
-  _secondsToIDLE: 18
+  _secondsToIDLE: 20
   timer: {fileID: 339216177}
   workingBees: {fileID: 506928854}
   bossIsShouting: {fileID: 432086270}
@@ -3168,20 +3168,20 @@ Camera:
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
-  m_SensorSize: {x: 36, y: 24}
+  m_SensorSize: {x: 1, y: 1}
   m_LensShift: {x: 0, y: 0}
-  m_FocalLength: 50
+  m_FocalLength: 0.86602545
   m_NormalizedViewPortRect:
     serializedVersion: 2
     x: 0
     y: 0
     width: 1
     height: 1
-  near clip plane: 0.3
+  near clip plane: 0.001
   far clip plane: 10
   field of view: 60
   orthographic: 1
-  orthographic size: 10
+  orthographic size: 11
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -7214,16 +7214,16 @@ MonoBehaviour:
   m_LockStageInInspector: 
   m_StreamingVersion: 20170927
   m_Priority: 10
-  m_StandbyUpdate: 2
+  m_StandbyUpdate: 1
   m_LookAt: {fileID: 0}
   m_Follow: {fileID: 432086264}
   m_Lens:
     FieldOfView: 60
-    OrthographicSize: 10
-    NearClipPlane: 0.3
+    OrthographicSize: 11
+    NearClipPlane: 0.001
     FarClipPlane: 10
     Dutch: 0
-    ModeOverride: 0
+    ModeOverride: 1
     LensShift: {x: 0, y: 0}
     GateFit: 2
     m_SensorSize: {x: 1, y: 1}
