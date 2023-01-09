@@ -7,7 +7,6 @@ public class Menu : MonoBehaviour
     public GameObject exit;
     public bool playFrame = true;
 
-    // Update is called once per frame
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.LeftArrow) || Input.GetKeyDown(KeyCode.A) ||

@@ -2298,7 +2298,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4051305327290028673}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1, y: 2, z: -0.023548216}
+  m_LocalPosition: {x: 1, y: -17.3, z: -0.023548216}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -2670,19 +2670,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1444e8b4a4dfe48818fab0563f888bc0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  childInHolder:
-  - {fileID: 5289566147917881165}
-  - {fileID: 3338343227399194022}
-  - {fileID: 0}
-  - {fileID: 838022047413041081}
-  - {fileID: 5530053369521172031}
-  - {fileID: 9020425255797747448}
-  - {fileID: 4823076362053985789}
-  - {fileID: 2116681485521912227}
-  - {fileID: 2651904364838590449}
-  - {fileID: 654544893443586819}
-  isNotActive: 00000000000000000000
-  keyToPress: 304
+  childInHolderLeft: []
+  isNotActiveLeft: 
 --- !u!1 &5289566147726291064
 GameObject:
   m_ObjectHideFlags: 0
@@ -2787,19 +2776,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1444e8b4a4dfe48818fab0563f888bc0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  childInHolder:
-  - {fileID: 911128370249974777}
-  - {fileID: 8479494420470412714}
-  - {fileID: 1679995910936304538}
-  - {fileID: 8533864690126519553}
-  - {fileID: 2253671790576156627}
-  - {fileID: 8429721527592873489}
-  - {fileID: 2451112123866978143}
-  - {fileID: 1933013555265445933}
-  - {fileID: 1026642362446236761}
-  - {fileID: 982604896224751526}
-  isNotActive: 00000000000000000000
-  keyToPress: 303
+  childInHolderLeft: []
+  isNotActiveLeft: 
 --- !u!1 &5289566147917881165
 GameObject:
   m_ObjectHideFlags: 0

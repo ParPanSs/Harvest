@@ -9,16 +9,26 @@ public class CharacterController : MonoBehaviour
     private float _horizontalMove;
 
     private bool _isFacingRight = true;
-    
+
+    public GameObject firstCall;
+    public Animator phone;
 
     void Start()
     {
         _rb = GetComponent<Rigidbody2D>();
         _animator = GetComponent<Animator>();
+        _rb.simulated = false;
     }
 
     void Update()
     {
+        if (Input.GetKeyDown(KeyCode.E))
+        {
+            firstCall.SetActive(false);
+            _rb.simulated = true;
+            phone.enabled = false;
+        }
+
         _horizontalMove = Input.GetAxis("Horizontal") * speed;
         if (_rb.velocity.x != 0)
         {
