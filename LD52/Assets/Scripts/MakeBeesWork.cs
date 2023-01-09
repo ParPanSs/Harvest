@@ -1,4 +1,3 @@
-using System;
 using System.Collections;
 using UnityEngine;
 
@@ -16,6 +15,8 @@ public class MakeBeesWork : MonoBehaviour
     private bool _isBeeLazy = true;
 
     public Animator timer;
+    public AudioSource workingBees;
+    public AudioSource bossIsShouting;
 
     void Update()
     {
@@ -23,7 +24,8 @@ public class MakeBeesWork : MonoBehaviour
         {
             miniGameCopy = Instantiate(miniGamePrefab, gameObject.transform, false);
             animator.SetBool("isAnger", true);
-            rb.bodyType = RigidbodyType2D.Static;
+            rb.bodyType = RigidbodyType2D.Static;        
+            bossIsShouting.Play();
         }
     }
 
@@ -32,16 +34,19 @@ public class MakeBeesWork : MonoBehaviour
         Destroy(miniGameCopy);        
         rb.bodyType = RigidbodyType2D.Dynamic;
         animator.SetBool("isAnger", false);
+        bossIsShouting.Stop();
         _isBeeLazy = false;
         beeAnimator.SetBool("Working", true);
         timer.SetBool("ticking", true);
         StartCoroutine(BackToIDLE());
+        workingBees.Play();
         machineAnimator.enabled = true;
     }
     public void Destruction()
     {
         Destroy(miniGameCopy);
-        animator.SetBool("isAnger", false);
+        animator.SetBool("isAnger", false);        
+        bossIsShouting.Stop();
         rb.bodyType = RigidbodyType2D.Dynamic;
     }
     private void OnTriggerEnter2D(Collider2D col)
@@ -66,6 +71,7 @@ public class MakeBeesWork : MonoBehaviour
         timer.SetBool("ticking", false);
         _isBeeLazy = true;
         beeAnimator.SetBool("Working", false);
+        workingBees.Stop();
         machineAnimator.enabled = false;
     }
 }

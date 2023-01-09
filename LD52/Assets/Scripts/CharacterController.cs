@@ -12,6 +12,7 @@ public class CharacterController : MonoBehaviour
 
     public GameObject firstCall;
     public Animator phone;
+    public AudioSource phoneCall;
 
     void Start()
     {
@@ -27,6 +28,7 @@ public class CharacterController : MonoBehaviour
             firstCall.SetActive(false);
             _rb.simulated = true;
             phone.enabled = false;
+            phoneCall.Stop();
         }
 
         _horizontalMove = Input.GetAxis("Horizontal") * speed;

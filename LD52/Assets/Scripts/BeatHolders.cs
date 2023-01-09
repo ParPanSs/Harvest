@@ -9,10 +9,12 @@ public class BeatHolders : MonoBehaviour
     
     private CubesController _speed;
     private BeatHolders _holders;
+    public MakeBeesWork miniGame;
 
     private void Start()
     {
         _speed = GetComponentInParent<CubesController>();
+        miniGame = GetComponentInParent<MakeBeesWork>();
     }
     
     private void Update()
@@ -41,8 +43,12 @@ public class BeatHolders : MonoBehaviour
                         {
                             isNotActiveLeft[i] = true;
                             Destroy(gameobject);
-                            _speed.fallSpeed += 1;
+                            _speed.fallSpeed += 0.5f;
                             break;
+                        }
+                        if (gameObject.transform.position.x - gameobject.transform.position.x < 0)
+                        {
+                            miniGame.Destruction();
                         }
                     }
 
@@ -52,8 +58,12 @@ public class BeatHolders : MonoBehaviour
                         {
                             isNotActiveLeft[i] = true;
                             Destroy(gameobject);
-                            _speed.fallSpeed += 1;
+                            _speed.fallSpeed += 0.5f;
                             break;
+                        }
+                        if (gameObject.transform.position.x - gameobject.transform.position.x > 0)
+                        {
+                            miniGame.Destruction();
                         }
                     }
                 }
