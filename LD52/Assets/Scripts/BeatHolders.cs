@@ -1,33 +1,61 @@
+using System.Linq;
 using UnityEngine;
 
 public class BeatHolders : MonoBehaviour
 {
-    public GameObject[] childInHolder;
-    public bool[] isNotActive;
-    public KeyCode keyToPress;
+    public GameObject[] childInHolderLeft;
+    public bool[] isNotActiveLeft;
+    private KeyCode[] _keyToPress = { KeyCode.LeftShift, KeyCode.RightShift };
+    
     private CubesController _speed;
     private BeatHolders _holders;
+
     private void Start()
     {
-        _speed = GameObject.Find("BeatHolder").GetComponent<CubesController>();
+        _speed = GetComponentInParent<CubesController>();
     }
-
+    
     private void Update()
     {
-        if (Input.GetKeyDown(keyToPress))
+        for (int i = 0; i < childInHolderLeft.Length; i++)
         {
-            if (gameObject.transform.childCount <= 0)
+            
+            var minElements = childInHolderLeft.Where
+                (x => x != null).Select(x => new
             {
-                _speed.fallSpeed = 2;
-            }
-            for (int i = 0; i < childInHolder.Length; i++)
+                gameObjectt = x,
+                TransformPosition = x.transform.position.y
+            }).ToList();
+
+            if (minElements.Count > 0)
             {
-                if (!isNotActive[i])
+                var minY = minElements.Min(x => x.TransformPosition);
+                var gameobject = minElements.FirstOrDefault(x =>
+                    x.TransformPosition == minY)?.gameObjectt;
+
+                if (!isNotActiveLeft[i] && gameobject != null)
                 {
-                    isNotActive[i] = true;
-                    Destroy(childInHolder[i]);               
-                    _speed.fallSpeed += 1;
-                    break;
+                    if (Input.GetKeyDown(_keyToPress[0]))
+                    {
+                        if (gameObject.transform.position.x - gameobject.transform.position.x > 0)
+                        {
+                            isNotActiveLeft[i] = true;
+                            Destroy(gameobject);
+                            _speed.fallSpeed += 1;
+                            break;
+                        }
+                    }
+
+                    if (Input.GetKeyDown(_keyToPress[1]))
+                    {
+                        if (gameObject.transform.position.x - gameobject.transform.position.x < 0)
+                        {
+                            isNotActiveLeft[i] = true;
+                            Destroy(gameobject);
+                            _speed.fallSpeed += 1;
+                            break;
+                        }
+                    }
                 }
             }
         }
